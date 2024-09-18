@@ -17,4 +17,5 @@
 <div style="flex">
 <img src="mittens.jpg"  width="300">
 <img src="mittens3.jpg"  width="300">
+<img src="mittens2.jpg"  width="300">
 </div>
