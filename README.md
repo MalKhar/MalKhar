@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**MalKhar/MalKhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a dashboard in Next.js.
 - 🌱 I’m currently learning node.js and Next.js
 - 👯 I’m looking to collaborate on any project that gives me a challenge
